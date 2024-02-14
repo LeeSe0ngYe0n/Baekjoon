@@ -1,5 +1,3 @@
-import Foundation
-
 let input = Int(readLine()!)!
 var six = 666
 var result: Int = 0
@@ -21,4 +19,5 @@ while condition != input {
     }
     six += 1
 }
+
 print(result)
